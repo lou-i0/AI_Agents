@@ -14,3 +14,6 @@ Repo to house a place to learn about making AI Agents ( ideally make anything , 
 - To make a household of agents like im a Master of the manor, a head butler and the underlings that report into the butler , with their own personalities :) 
 
 # 1. Learn how to make an AI Agent.
+- Find a large language model brain
+- System context and a continuous reasoning loop
+- Integrated tools to execute tasks independently
