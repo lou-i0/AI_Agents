@@ -1,0 +1,14 @@
+docling # converts complex documents into structured ones
+pydantic
+# openai
+lancedb
+langchain
+langchain-ollama
+langchain-chroma
+langchain_core
+pandas
+polars
+pypdf
+pytest
+langchain_docling
+langchain_text_splitters
